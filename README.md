@@ -18,9 +18,9 @@
 </p>
 
 
-### Skills
+## Skills
 
-##### Programming languages
+#### Programming languages
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="35" height="32"/></a>
@@ -29,7 +29,7 @@
   <a href="https://www.php.net/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="50" height="30"/></a>
 </p>
 
-##### Libraries and frameworks
+#### Libraries and frameworks
 
 <p align="left">
   <a href="https://laravel.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-1.svg" alt="laravel" width="32" height="50"/></a>
@@ -39,7 +39,7 @@
   <a href="https://www.electronjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/electron-1.svg" alt="bootstrap" width="32" height="50"/></a>
 </p>
 
-##### Databases
+#### Databases
 
 <p align="left">
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql" width="40" height="35"/></a>
@@ -48,7 +48,7 @@
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="30" height="40"/></a>
 </p>
 
-##### Tools
+#### Tools
 
 <p align="left">
   <a href="https://nodejs.org/en/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="35"/></a>
