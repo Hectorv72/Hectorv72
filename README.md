@@ -61,7 +61,10 @@
 
 ### Projects
 
+
+<h3 align="center">Edumap-Argentina</h3>
 <a href="https://edumap-argentina.netlify.app">
-  <h3 align="center">Edumap-Argentina</h3>
-  <img src="./assets/vue-edumap.png"/>
+  <p align="center">
+    <img src="./assets/vue-edumap.png" width="280"/>
+  </p>
 </a>
