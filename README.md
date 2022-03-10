@@ -65,6 +65,6 @@
 <h3 align="center">Edumap-Argentina</h3>
 <a href="https://edumap-argentina.netlify.app">
   <p align="center">
-    <img src="./assets/vue-edumap.png" width="280"/>
+    <img src="./assets/vue-edumap.png" width="400"/>
   </p>
 </a>
