@@ -9,7 +9,7 @@
 - 📃 I have degrees in **Programming Technician** and specialist in **Multiplatform Software Development**.
 - 💻 Skills: web development in **MERN** stack and **LAMP** stack
 - 🚀 I am the developer of **BattleSpaceX**, a multiplayer spaceship battle game
-- 📫 How to reach me: **hectorvaldezfsa13@gmail.com**
+- 📫 How to reach me: **indiedevfsa@gmail.com**
 
 <h4 align="center">My social networks:</h4>
 <p align="center">
@@ -58,3 +58,10 @@
 </p><br>
 
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hectorv72&show_icons=true&locale=en&layout=compact" alt="Hectorv72" /></p> -->
+
+### Projects
+
+<a href="https://edumap-argentina.netlify.app">
+  <h3 align="center">Edumap-Argentina</h3>
+  <img src="./assets/vue-edumap.png"/>
+</a>
