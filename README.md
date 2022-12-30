@@ -59,6 +59,6 @@
 ### Projects
 
 <p align="center">
-  <a href="https://edumap-argentina.netlify.app"><img src="./assets/vue-edumap.png" width="250"/></a>
-  <a href="https://easycvmaker.netlify.app"><img src="./assets/easy-cvmaker.png" width="250"/></a>
+  <a href="https://edumap-argentina.netlify.app"><img src="./assets/vue-edumap.png" width="300"/></a>
+  <a href="https://easycvmaker.netlify.app"><img src="./assets/easy-cvmaker.png" width="300"/></a>
 </p>
