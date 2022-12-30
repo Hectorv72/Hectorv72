@@ -32,10 +32,10 @@
 #### Libraries and frameworks
 
 <p align="left">
-  <a href="https://laravel.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-1.svg" alt="laravel" width="32" height="50"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank" style="margin: 0px 10px 0px 10px" > <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="20" height="36"/></a>
+  <a href="https://laravel.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-1.svg" alt="laravel" width="35" height="50"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank" > <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="24" height="38"/></a>
   <a href="https://es.reactjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="35" height="50"/></a>
-  <a href="https://vuejs.org/" target="_blank" style="margin: 0px 0px 0px 7px"> <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="vue" width="35" height="37"/></a>
+  <a href="https://vuejs.org/" target="_blank" > <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="vue" width="35" height="37"/></a>
 </p>
 
 #### Databases
@@ -59,6 +59,6 @@
 ### Projects
 
 <p align="center">
-  <a href="https://edumap-argentina.netlify.app" style="margin: 0px 5px 0px 5px"><img src="./assets/vue-edumap.png" width="250"/></a>
-  <a href="https://easycvmaker.netlify.app" style="margin: 0px 5px 0px 5px"><img src="./assets/easy-cvmaker.png" width="260" height="151"/></a>
+  <a href="https://edumap-argentina.netlify.app"><img src="./assets/vue-edumap.png" width="250"/></a>
+  <a href="https://easycvmaker.netlify.app"><img src="./assets/easy-cvmaker.png" width="250"/></a>
 </p>
