@@ -9,12 +9,12 @@
 - 📃 I have degrees in **Programming Technician** and specialist in **Multiplatform Software Development**.
 - 💻 Skills: web development in **MERN** stack and **LAMP** stack
 - 🚀 I am the developer of **BattleSpaceX**, a multiplayer spaceship battle game
-- 📫 How to reach me: **indiedevfsa@gmail.com**
+- 📫 How to reach me: **hectorvaldezfsa13@gmail.com**
 
 <h4 align="center">My social networks:</h4>
 <p align="center">
   <a href="https://www.linkedin.com/in/Hectorv72" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin-hector-valdez" height="32" width="40" /></a>
-  <a href="https://www.instagram.com/valdez_hector.js" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="instagram-hector-valdez" height="32" width="40" /></a>
+  <a href="https://www.instagram.com/valdez_hector.js" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-6.svg" alt="instagram-hector-valdez" height="35" width="40" /></a>
 </p>
 
 
@@ -33,10 +33,9 @@
 
 <p align="left">
   <a href="https://laravel.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-1.svg" alt="laravel" width="32" height="50"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="55" height="50"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank" style="margin: 0px 10px 0px 10px" > <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="20" height="36"/></a>
   <a href="https://es.reactjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="35" height="50"/></a>
-  <a href="https://getbootstrap.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" width="35" height="50"/></a>
-  <a href="https://www.electronjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/electron-1.svg" alt="bootstrap" width="32" height="50"/></a>
+  <a href="https://vuejs.org/" target="_blank" style="margin: 0px 0px 0px 7px"> <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="vue" width="35" height="37"/></a>
 </p>
 
 #### Databases
@@ -57,14 +56,9 @@
   <a href="https://www.linux.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="vscode" width="40" height="35"/></a>
 </p><br>
 
-<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hectorv72&show_icons=true&locale=en&layout=compact" alt="Hectorv72" /></p> -->
-
 ### Projects
 
-
-<h3 align="center">Edumap-Argentina</h3>
-<a href="https://edumap-argentina.netlify.app">
-  <p align="center">
-    <img src="./assets/vue-edumap.png" width="400"/>
-  </p>
-</a>
+<p align="center">
+  <a href="https://edumap-argentina.netlify.app" style="margin: 0px 5px 0px 5px"><img src="./assets/vue-edumap.png" width="250"/></a>
+  <a href="https://easycvmaker.netlify.app" style="margin: 0px 5px 0px 5px"><img src="./assets/easy-cvmaker.png" width="260" height="151"/></a>
+</p>
