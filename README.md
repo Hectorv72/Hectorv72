@@ -9,7 +9,6 @@
 - 📃 I have degrees in **Programming Technician** and specialist in **Multiplatform Software Development**.
 - 💻 Skills: web development in **MERN** stack and **LAMP** stack
 - 🚀 I am the developer of **BattleSpaceX**, a multiplayer spaceship battle game
-- 📫 How to reach me: **hectorvaldezfsa13@gmail.com**
 
 <h4 align="center">My social networks:</h4>
 <p align="center">
